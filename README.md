@@ -9,4 +9,6 @@
 8. Largest of two numbers.
 9. Add two numbers without + Operator.
 10. Check if triangle is valid or not.
-11. 
+11. Java Program to Generate the Fibonacci Series
+12. Java Program to Check Leap Year
+13. Largest of three numbers.
